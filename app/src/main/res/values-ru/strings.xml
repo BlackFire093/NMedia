@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Нмедиа</string>
+    <string name="nmedia">НМедиа!</string>
+    <string name="menu_button_description">Menu</string>
+    <string name="avatar_description">avatar</string>
+    <string name="like_description">Like</string>
+    <string name="share_description">Share</string>
+    <string name="visibility_description">Visibility</string>
+</resources>
